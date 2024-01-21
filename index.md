@@ -4,8 +4,8 @@
 #### hello world!
 ##### hello world!
 ###### hello world!
-- [] Task
-- [] task2
+- [ ] Task
+- [ ] taks
 - [x] task completed
 ``` javascript
 var myVar = "Hello, world!";
